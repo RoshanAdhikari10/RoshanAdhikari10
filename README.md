@@ -24,9 +24,6 @@
 
 ---
 
-### 👀 Profile Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=RoshanAdhikari10&label=Profile%20Views&color=blue&style=flat)
-
 ---
 
 ✨ *“Code is not just about solving problems, it’s about creating impact.”* ✨
