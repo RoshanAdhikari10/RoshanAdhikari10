@@ -1,19 +1,32 @@
-👋 Hi, I’m @RoshanAdhikari10
+# 👋 Hi, I’m Roshan Adhikari (@RoshanAdhikari10)
 
-👀 I’m interested in exploring new technologies, coding, and contributing to open-source projects.
+👀 **Interests:** Exploring new technologies, coding, and contributing to open-source projects.  
+🌱 **Currently Learning:** Full-stack web development (JavaScript, React, Node.js).  
+💞️ **Looking to Collaborate On:** Projects that tackle real-world problems and promote sustainability & social good.  
+📫 **Reach Me At:** [chhetrirosun@gmail.com](mailto:chhetrirosun@gmail.com)  
+😄 **Pronouns:** He/Him  
+⚡ **Fun Fact:** I love hiking 🏔️ and photography 📸, and I’m always up for trying out new cuisines 🍜.  
 
-🌱 I’m currently learning web development with a focus on full-stack development using JavaScript, React, and Node.js.
+---
 
-💞️ I’m looking to collaborate on projects that tackle real-world problems and promote sustainability and social good.
+### 🚀 Tech Stack
+- **Languages:** JavaScript, Python, Java  
+- **Frontend:** React Native, HTML, CSS, Tailwind  
+- **Backend:** Asp.net 
+- **Database:**  MySQL  
+- **Other Tools:** Git, GitHub, Photoshop  
 
-📫 You can reach me via email at chhetrirosun@gmail.com.
+---
 
-😄 Pronouns: He/Him
+### 🌟 GitHub Stats
+![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoshanAdhikari10&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanAdhikari10&layout=compact&theme=radical)
 
-⚡ Fun fact: I love hiking and photography, and I'm always up for trying out new cuisines!
+---
 
+### 👀 Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=RoshanAdhikari10&label=Profile%20Views&color=blue&style=flat)
 
-<!---
-RoshanAdhikari10/RoshanAdhikari10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+✨ *“Code is not just about solving problems, it’s about creating impact.”* ✨
