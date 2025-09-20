@@ -1,3 +1,6 @@
+<!-- Banner -->
+![Roshan Adhikari Banner](https://img.shields.io/badge/Hello%20World!-I'm%20Roshan%20Adhikari-blueviolet?style=for-the-badge&logo=github)
+
 # 👋 Hi, I’m Roshan Adhikari (@RoshanAdhikari10)
 
 👀 **Interests:** Exploring new technologies, coding, and contributing to open-source projects.  
@@ -9,20 +12,43 @@
 
 ---
 
-### 🚀 Tech Stack
+## 🌐 Connect with Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-RoshanAdhikari25.com.np-blue?style=for-the-badge&logo=google-chrome)](https://roshanadhikari25.com.np/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/roshanadhikari10)  
+[![GitHub followers](https://img.shields.io/github/followers/RoshanAdhikari10?style=for-the-badge&logo=github)](https://github.com/RoshanAdhikari10?tab=followers)  
+
+---
+
+## 🚀 Tech Stack
 - **Languages:** JavaScript, Python, Java  
-- **Frontend:** React Native, HTML, CSS, Tailwind  
-- **Backend:** Asp.net 
-- **Database:**  MySQL  
+- **Frontend:** React Native, React, HTML, CSS, Tailwind  
+- **Backend:** ASP.NET Core, Node.js  
+- **Database:** MySQL, SQL Server  
 - **Other Tools:** Git, GitHub, Photoshop  
 
 ---
 
-### 🌟 GitHub Stats
-![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoshanAdhikari10&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanAdhikari10&layout=compact&theme=radical)
+## 📂 Featured Projects
+- 📰 [**AI Personal Assistant App**](https://github.com/RoshanAdhikari10/AI-Assistant) – Task manager, news, and reminders with smart features.  
+- 🎮 [**Meme Battles**](https://github.com/RoshanAdhikari10/Meme-App) – Create memes, battle, and leaderboard rankings.  
+- 📝 [**Sports Quiz App**](https://github.com/RoshanAdhikari10/Quiz-App) – Interactive quiz with animations, timers, and Firebase.  
 
 ---
+
+## 🌟 GitHub Stats
+![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoshanAdhikari10&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanAdhikari10&layout=compact&theme=radical)  
+
+---
+
+## 📈 Contribution Graph
+![Roshan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RoshanAdhikari10&theme=radical)  
+
+---
+
+## 🔥 Streaks & Achievements
+![GitHub Streak](https://streak-stats.demolab.com?user=RoshanAdhikari10&theme=radical)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RoshanAdhikari10&theme=radical&no-frame=true&row=1&column=7)  
 
 ---
 
