@@ -21,8 +21,8 @@
 
 ## 🚀 Tech Stack
 - **Languages:** JavaScript, Python, Java  
-- **Frontend:** React Native, React, HTML, CSS, Tailwind  
-- **Backend:** ASP.NET Core, Node.js  
+- **Frontend:** React Native, HTML, CSS, Tailwind  
+- **Backend:** ASP.NET Core 
 - **Database:** MySQL, SQL Server  
 - **Other Tools:** Git, GitHub, Photoshop  
 
