@@ -30,7 +30,6 @@
 
 ## 📂 Featured Projects
 - 📰 [**AI Personal Assistant App**](https://github.com/RoshanAdhikari10/AI-Assistant) – Task manager, news, and reminders with smart features.  
-- 🎮 [**Meme Battles**](https://github.com/RoshanAdhikari10/Meme-App) – Create memes, battle, and leaderboard rankings.  
 - 📝 [**Sports Quiz App**](https://github.com/RoshanAdhikari10/Quiz-App) – Interactive quiz with animations, timers, and Firebase.  
 
 ---
@@ -38,6 +37,8 @@
 ## 🌟 GitHub Stats
 ![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoshanAdhikari10&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanAdhikari10&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=RoshanAdhikari10&theme=radical&hide_border=false)
+
 
 ---
 
