@@ -29,7 +29,7 @@
 ---
 
 ## 📂 Featured Projects
-- 📰 [**AI Personal Assistant App**](https://github.com/RoshanAdhikari10/AI-Assistant) – Task manager, news, and reminders with smart features.  
+<!-- 📰 [**AI Personal Assistant App**](https://github.com/RoshanAdhikari10/AI-Assistant) – Task manager, news, and reminders with smart features.  -->
 - 📝 [**Sports Quiz App**](https://github.com/RoshanAdhikari10/Quiz-App) – Interactive quiz with animations, timers, and Firebase.  
 
 ---
