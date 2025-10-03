@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Roshan Adhikari Banner](https://img.shields.io/badge/Hello%20World!-I'm%20Roshan%20Adhikari-blueviolet?style=for-the-badge&logo=github)
+![Roshan Adhikari Banner](https://i.ibb.co/YPrY5Tc/github-banner.png)
 
 # 👋 Hi, I’m Roshan Adhikari (@RoshanAdhikari10)
 
@@ -16,29 +16,35 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-RoshanAdhikari25.com.np-blue?style=for-the-badge&logo=google-chrome)](https://roshanadhikari25.com.np/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/roshanadhikari10)  
 [![GitHub followers](https://img.shields.io/github/followers/RoshanAdhikari10?style=for-the-badge&logo=github)](https://github.com/RoshanAdhikari10?tab=followers)  
+![Profile Views](https://komarev.com/ghpvc/?username=RoshanAdhikari10&color=blueviolet&style=for-the-badge)  
 
 ---
 
 ## 🚀 Tech Stack
-- **Languages:** JavaScript, Python, Java  
-- **Frontend:** React Native, HTML, CSS, Tailwind  
-- **Backend:** ASP.NET Core 
-- **Database:** MySQL, SQL Server  
-- **Other Tools:** Git, GitHub, Photoshop  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt="ASP.NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
+</p>
 
 ---
 
 ## 📂 Featured Projects
-<!-- 📰 [**AI Personal Assistant App**](https://github.com/RoshanAdhikari10/AI-Assistant) – Task manager, news, and reminders with smart features.  -->
 - 📝 [**Quiz App**](https://github.com/RoshanAdhikari10/Quiz-App) – Interactive quiz with animations, timers, and more.  
+- 🍔 [**Food Sathi**](https://github.com/RoshanAdhikari10/FoodSathi) – Online food ordering system built with ASP.NET Core + MySQL.  
+- 🤖 [**AI Assistant App**](https://github.com/RoshanAdhikari10/AI-Assistant) – React Native app with task manager, news, and reminders.  
+- 😂 [**Meme Generator + Battles**](https://github.com/RoshanAdhikari10/Meme-Battles) – Fun app for creating memes & competing in battles.  
 
 ---
+
 ## 🌟 GitHub Stats
-![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoshanAdhikari10&show_icons=true&theme=radical&count_private=true&hide=prs&show_year=true)  
+![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoshanAdhikari10&show_icons=true&theme=radical&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanAdhikari10&layout=compact&theme=radical)  
-
-
-
 
 ---
 
@@ -53,4 +59,14 @@
 
 ---
 
-✨ *“Code is not just about solving problems, it’s about creating impact.”* ✨
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/RoshanAdhikari10/RoshanAdhikari10/blob/output/github-contribution-grid-snake.svg)  
+
+---
+
+## 💡 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+> ✨ *“Code is not just about solving problems, it’s about creating impact.”* ✨
