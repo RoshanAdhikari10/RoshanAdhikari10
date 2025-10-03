@@ -37,8 +37,7 @@
 ## 📂 Featured Projects
 - 📝 [**Quiz App**](https://github.com/RoshanAdhikari10/Quiz-App) – Interactive quiz with animations, timers, and more.  
 - 🍔 [**Food Sathi**](https://github.com/RoshanAdhikari10/FoodSathi) – Online food ordering system built with ASP.NET Core + MySQL.  
-- 🤖 [**AI Assistant App**](https://github.com/RoshanAdhikari10/AI-Assistant) – React Native app with task manager, news, and reminders.  
-- 😂 [**Meme Generator + Battles**](https://github.com/RoshanAdhikari10/Meme-Battles) – Fun app for creating memes & competing in battles.  
+
 
 ---
 
