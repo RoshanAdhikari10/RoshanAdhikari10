@@ -14,9 +14,6 @@
 ## 🌐 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-RoshanAdhikari25.com.np-blue?style=for-the-badge&logo=google-chrome)](https://roshanadhikari25.com.np/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/roshanadhikari10)  
-[![GitHub followers](https://img.shields.io/github/followers/RoshanAdhikari10?style=for-the-badge&logo=github)](https://github.com/RoshanAdhikari10?tab=followers)  
-![Profile Views](https://komarev.com/ghpvc/?username=RoshanAdhikari10&color=blueviolet&style=for-the-badge)  
-
 ---
 
 ## 🚀 Tech Stack
