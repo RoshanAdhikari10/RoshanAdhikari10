@@ -1,6 +1,3 @@
-<!-- Banner -->
-![Roshan Adhikari Banner](https://i.ibb.co/YPrY5Tc/github-banner.png)
-
 # 👋 Hi, I’m Roshan Adhikari (@RoshanAdhikari10)
 
 👀 **Interests:** Exploring new technologies, coding, and contributing to open-source projects.  
@@ -59,7 +56,8 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/RoshanAdhikari10/RoshanAdhikari10/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/RoshanAdhikari10/RoshanAdhikari10/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
