@@ -1,3 +1,5 @@
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FF5733&center=true&vCenter=true&width=500&lines=Hello+World!;I+am+Roshan+Adhikari;I+love+coding+%26+tech!)
+
 # 👋 Hi, I’m Roshan Adhikari (@RoshanAdhikari10)
 
 👀 **Interests:** Exploring new technologies, coding, and contributing to open-source projects.  
