@@ -55,11 +55,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/RoshanAdhikari10/RoshanAdhikari10/blob/output/github-contribution-grid-snake.svg)
-
-
----
 
 ## 💡 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
