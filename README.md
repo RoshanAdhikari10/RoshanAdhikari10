@@ -50,7 +50,8 @@
 ---
 
 ## 🔥 Streaks & Achievements
-![GitHub Streak](https://streak-stats.demolab.com?user=RoshanAdhikari10&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=RoshanAdhikari10&theme=radical&border_radius=10&hide_border=true)
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RoshanAdhikari10&theme=radical&no-frame=true&row=1&column=7)  
 
 ---
