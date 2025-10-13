@@ -67,13 +67,11 @@
 ## 🎵 Currently Listening & Gaming ⚽🎶
 
 <p align="center">
-  <a href="https://open.spotify.com/track/0I4K3aL5mj44NBRjM0D5Wm" target="_blank">
+  <a href="https://open.spotify.com/track/0I4K3aL5mj44NBRjM0D5Wm" target="_blank" title="Listen on Spotify">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spotify.svg" alt="Spotify" width="50" style="margin-right:20px;"/>
   </a>
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/83/Efootball_2024_logo.png" alt="eFootball" width="50"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/en/8/83/Efootball_2026_logo.png](https://www.konami.com/efootball/s/img/page/yugioh/yo-gi-oh_efootball_visual_jp.jpg)" alt="eFootball" width="50"/>
 </p>
-
-> Grooving to **“Young & Beautiful”** while playing **eFootball** ⚽🎶
 
 ---
 
