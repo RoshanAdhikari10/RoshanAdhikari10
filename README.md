@@ -10,7 +10,7 @@
 
 🎓 **BSc.IT Student** at *Infomax College of IT and Management*  
 💻 **Aspiring Full-Stack Developer** passionate about **modern UI, problem-solving, and system design**  
-🚀 Always exploring **emerging technologies**, contributing to **open-source**, and building **impactful digital solutions**  
+🚀 Exploring **emerging technologies**, contributing to **open-source**, and building **impactful digital solutions**  
 🌏 From **Pokhara, Nepal** 🇳🇵  
 📧 **Reach Me:** [chhetrirosun@gmail.com](mailto:chhetrirosun@gmail.com)
 
@@ -24,10 +24,24 @@
 
 ---
 
-## 🤝 Let’s Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-RoshanAdhikari25.com.np-%23007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://roshanadhikari25.com.np/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshanadhikari10)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoshanAdhikari10)
+## 🤝 Connect with Me
+<p align="center">
+  <a href="https://roshanadhikari25.com.np/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-RoshanAdhikari25.com.np-%23007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/roshanadhikari10" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/your.facebook.id" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Follow-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/your.instagram.id" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/RoshanAdhikari10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -50,12 +64,25 @@
 
 ---
 
-## 🎵 Currently Listening & Gaming 🎮
+## 🎵 Jam Session with eFootball ⚽🎶
 
-[![Spotify](https://img.shields.io/badge/Spotify-Now%20Playing-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/YOUR_SPOTIFY_TRACK_ID)  
-> Grooving to this while playing **eFootball ⚽**  
+<p align="center">
+  <a href="https://open.spotify.com/track/YOUR_SPOTIFY_TRACK_ID" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spotify.svg" alt="Spotify" width="50" class="neon" style="margin-right:20px;"/>
+  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/83/Efootball_2024_logo.png" alt="eFootball" width="50" class="neon"/>
+</p>
+
+> Grooving to this track while playing **eFootball** ⚽🎶
 
 *(Replace `YOUR_SPOTIFY_TRACK_ID` with your favorite Spotify track link)*
+
+<style>
+.neon:hover {
+  filter: drop-shadow(0 0 10px #1DB954) drop-shadow(0 0 20px #1DB954) drop-shadow(0 0 30px #1DB954);
+  transition: 0.3s ease-in-out;
+}
+</style>
 
 ---
 
