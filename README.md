@@ -1,4 +1,4 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=FF5733&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Roshan+Adhikari;Passionate+IT+Student+%26+Tech+Enthusiast;Welcome+to+my+GitHub!👋)
+   ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=FF5733&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Roshan+Adhikari;Passionate+IT+Student+%26+Tech+Enthusiast;Welcome+to+my+GitHub!👋)
 
 # 🌟 Roshan Adhikari — Tech Explorer | Developer | Innovator
 
@@ -64,25 +64,16 @@
 
 ---
 
-## 🎵 Jam Session with eFootball ⚽🎶
+## 🎵 Currently Listening & Gaming ⚽🎶
 
 <p align="center">
-  <a href="https://open.spotify.com/track/YOUR_SPOTIFY_TRACK_ID" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spotify.svg" alt="Spotify" width="50" class="neon" style="margin-right:20px;"/>
+  <a href="https://open.spotify.com/track/0I4K3aL5mj44NBRjM0D5Wm" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spotify.svg" alt="Spotify" width="50" style="margin-right:20px;"/>
   </a>
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/83/Efootball_2024_logo.png" alt="eFootball" width="50" class="neon"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/83/Efootball_2024_logo.png" alt="eFootball" width="50"/>
 </p>
 
-> Grooving to this track while playing **eFootball** ⚽🎶
-
-*(Replace `YOUR_SPOTIFY_TRACK_ID` with your favorite Spotify track link)*
-
-<style>
-.neon:hover {
-  filter: drop-shadow(0 0 10px #1DB954) drop-shadow(0 0 20px #1DB954) drop-shadow(0 0 30px #1DB954);
-  transition: 0.3s ease-in-out;
-}
-</style>
+> Grooving to **“Young & Beautiful”** while playing **eFootball** ⚽🎶
 
 ---
 
