@@ -17,16 +17,16 @@
 ---
 
 ## 🌱 Currently Exploring
-- 🧠 Full-Stack Web Development (React, Node.js, Express, MongoDB)
-- ☁️ Cloud & Backend Technologies
-- 🎨 UI/UX Design & Animation
-- 🧩 AI-integrated Mobile Apps with React Native
+- 🧠 Full-Stack Web Development (React, Node.js, Express, MongoDB)  
+- ☁️ Cloud & Backend Technologies  
+- 🎨 UI/UX Design & Animation  
+- 🧩 AI-integrated Mobile Apps with React Native  
 
 ---
 
 ## 🤝 Let’s Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-RoshanAdhikari25.com.np-%23007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://roshanadhikari25.com.np/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshanadhikari10)
+[![Portfolio](https://img.shields.io/badge/Portfolio-RoshanAdhikari25.com.np-%23007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://roshanadhikari25.com.np/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshanadhikari10)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoshanAdhikari10)
 
 ---
@@ -47,6 +47,15 @@
 | 🍔 [**Food Sathi**](https://github.com/RoshanAdhikari10/FoodSathi) | ASP.NET Core + MySQL food ordering system with feedback & order management | ASP.NET, MySQL |
 | 🤖 **AI Personal Assistant** *(Private)* | Smart assistant with task manager, reminders, and voice features | React Native, Firebase |
 | 🌍 [**Portfolio Website**](https://roshanadhikari25.com.np/) | Personal website with smooth animations, dark mode, and projects | HTML, CSS, JS |
+
+---
+
+## 🎵 Currently Listening & Gaming 🎮
+
+[![Spotify](https://img.shields.io/badge/Spotify-Now%20Playing-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/YOUR_SPOTIFY_TRACK_ID)  
+> Grooving to this while playing **eFootball ⚽**  
+
+*(Replace `YOUR_SPOTIFY_TRACK_ID` with your favorite Spotify track link)*
 
 ---
 
