@@ -1,4 +1,4 @@
-   ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=FF5733&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Roshan+Adhikari;Passionate+IT+Student+%26+Tech+Enthusiast;Welcome+to+my+GitHub!👋)
+  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FF5733&center=true&vCenter=true&width=500&lines=Hello+World!;I+am+Roshan+Adhikari;I+love+coding+%26+tech!;Welcome+to+my+GitHub!👋)
 
 # 🌟 Roshan Adhikari — Tech Explorer | Developer | Innovator
 
