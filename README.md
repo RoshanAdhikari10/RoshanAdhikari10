@@ -1,4 +1,4 @@
-  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FF5733&center=true&vCenter=true&width=500&lines=Hello+World!;I+am+Roshan+Adhikari;I+love+coding+%26+tech!;Welcome+to+my+GitHub!👋)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FF5733&center=true&vCenter=true&width=500&lines=Hello+World!;I+am+Roshan+Adhikari;I+love+coding+%26+tech!;Welcome+to+my+GitHub!👋)
 
 # 🌟 Roshan Adhikari — Tech Explorer | Developer | Innovator
 
@@ -17,10 +17,10 @@
 ---
 
 ## 🌱 Currently Exploring
-- 🧠 Full-Stack Web Development (React, Node.js, Express, MongoDB)  
+- 🧠 Full-Stack Web Development (React, Express, Java, SQL)
 - ☁️ Cloud & Backend Technologies  
 - 🎨 UI/UX Design & Animation  
-- 🧩 AI-integrated Mobile Apps with React Native  
+- 🤖 AI-integrated Mobile Apps (React Native + Firebase)  
 
 ---
 
@@ -32,10 +32,10 @@
   <a href="https://www.linkedin.com/in/roshanadhikari10" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/your.facebook.id" target="_blank">
+  <a href="https://www.facebook.com/roshan.adhikari.792303" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Follow-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/your.instagram.id" target="_blank">
+  <a href="https://www.instagram.com/roshan_adhikari25" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/RoshanAdhikari10" target="_blank">
@@ -46,9 +46,8 @@
 ---
 
 ## 💻 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,java,python,mysql,dotnet,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,mysql,dotnet,git,github,vscode" />
 </p>
 
 ---
@@ -68,9 +67,10 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/0I4K3aL5mj44NBRjM0D5Wm" target="_blank" title="Listen on Spotify">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spotify.svg" alt="Spotify" width="50" style="margin-right:20px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spotify.svg" alt="Spotify" width="55" style="filter: drop-shadow(0 0 8px #1DB954); transition: all 0.3s ease-in-out;" />
   </a>
-  <img src="[https://upload.wikimedia.org/wikipedia/en/8/83/Efootball_2026_logo.png](https://www.konami.com/efootball/s/img/page/yugioh/yo-gi-oh_efootball_visual_jp.jpg)" alt="eFootball" width="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/83/Efootball_2026_logo.png" alt="eFootball" width="55" style="filter: drop-shadow(0 0 8px #00A3FF); transition: all 0.3s ease-in-out;" />
 </p>
 
 ---
