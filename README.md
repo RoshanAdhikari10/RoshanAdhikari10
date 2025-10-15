@@ -29,19 +29,6 @@
   <a href="https://roshanadhikari25.com.np/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-RoshanAdhikari25.com.np-%23007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/roshan-adhikari-80b883320" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/roshan.adhikari.792303" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Follow-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/roshan_adhikari25" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/RoshanAdhikari10" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
