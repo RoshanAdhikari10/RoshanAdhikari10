@@ -50,35 +50,6 @@
 
 ---
 
-## 🎵 Currently Listening & Gaming ⚽🎶
-
-
-<p align="center">
-
-  <!-- 🎧 Spotify Now Playing -->
-  <a href="https://open.spotify.com/track/0I4K3aL5mj44NBRjM0D5Wm" target="_blank">
-    <img src="https://novatorem-ruddy.vercel.app/api/spotify" alt="Spotify Now Playing" width="420" />
-  </a>
-
-  <br><br>
-
-  <!-- 💚 Spotify Logo (glow effect) -->
-  <a href="https://open.spotify.com/track/0I4K3aL5mj44NBRjM0D5Wm" target="_blank" title="Listen on Spotify">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spotify.svg" 
-         width="55"
-         style="filter: drop-shadow(0 0 12px #1DB954); transition: 0.4s; transform: scale(1.05);"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- ⚽ eFootball Logo with Neon Glow -->
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/83/Efootball_2026_logo.png"
-       alt="eFootball" 
-       width="70"
-       style="filter: drop-shadow(0 0 12px #00A3FF); transition: 0.4s; transform: scale(1.05);" />
-
-</p>
-
 
 ---
 
