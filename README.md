@@ -20,7 +20,7 @@
 - 🧠 Full-Stack Web Development (React, Express, Java, SQL)
 - ☁️ Cloud & Backend Technologies  
 - 🎨 UI/UX Design & Animation  
-- 🤖 AI-integrated Mobile Apps (React Native + Firebase)  
+- 🤖 AI-integrated Mobile Apps (React Native )  
 
 ---
 
@@ -45,7 +45,7 @@
 |----------|--------------|------|
 | 🧠 [**Quiz App**](https://github.com/RoshanAdhikari10/Quiz-App) | Interactive quiz app with animations, timers, and leaderboard | React Native |
 | 🍔 [**Food Sathi**](https://github.com/RoshanAdhikari10/FoodSathi) | ASP.NET Core + MySQL food ordering system with feedback & order management | ASP.NET, MySQL |
-| 🤖 **AI Personal Assistant** *(Private)* | Smart assistant with task manager, reminders, and voice features | React Native, Firebase |
+| 🤖 **AI Personal Assistant** *(Private)* | Smart assistant with task manager, reminders, and voice features | React Native |
 | 🌍 [**Portfolio Website**](https://roshanadhikari25.com.np/) | Personal website with smooth animations, dark mode, and projects | HTML, CSS, JS |
 
 ---
