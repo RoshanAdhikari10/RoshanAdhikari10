@@ -29,6 +29,7 @@
   <a href="https://roshanadhikari25.com.np/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-RoshanAdhikari25.com.np-%23007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+</p>
 
 ---
 
@@ -50,18 +51,17 @@
 
 ---
 
-
----
-
-## ⚡ GitHub Analytics
-
+## 🌈 Multi-Language Developer
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoshanAdhikari10&show_icons=true&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RoshanAdhikari10&theme=radical&hide_border=true" width="48%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=🌈+Multi-Language+Developer;💻+Exploring+Every+Tech+Universe;🚀+Code+in+Multiple+Languages!" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanAdhikari10&layout=compact&theme=radical&hide_border=true" width="50%">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,cpp,php,mysql,firebase,git,github,vscode,figma,androidstudio&theme=light" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanAdhikari10&layout=compact&langs_count=10&theme=radical&hide_border=true&title_color=00FFFF" width="50%">
 </p>
 
 ---
@@ -71,7 +71,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RoshanAdhikari10&theme=radical&no-frame=true&margin-w=10&row=1" />
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RoshanAdhikari10&theme=radical)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoshanAdhikari10&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## ⚡ GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RoshanAdhikari10&show_icons=true&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RoshanAdhikari10&theme=radical&hide_border=true" width="48%">
+</p>
 
 ---
 
