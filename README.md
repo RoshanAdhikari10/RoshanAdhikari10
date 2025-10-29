@@ -53,11 +53,11 @@
 
 ## 🌈 Multi-Language Developer
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=🌈+Multi-Language+Developer;💻+Exploring+Every+Tech+Universe;🚀+Code+in+Multiple+Languages!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=+Multi-Language+Developer;💻+Exploring+Every+Tech+Universe;🚀+Code+in+Multiple+Languages!" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,cpp,php,mysql,firebase,git,github,vscode,figma,androidstudio&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react native,java,python,mysql,git,github,vscode,figma,androidstudio&theme=light" />
 </p>
 
 <p align="center">
