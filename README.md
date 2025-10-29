@@ -51,20 +51,6 @@
 
 ---
 
-## 🌈 Multi-Language Developer
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=+Multi-Language+Developer;💻+Exploring+Every+Tech+Universe;🚀+Code+in+Multiple+Languages!" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react native,java,python,mysql,git,github,vscode,figma,androidstudio&theme=light" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanAdhikari10&layout=compact&langs_count=10&theme=radical&hide_border=true&title_color=00FFFF" width="50%">
-</p>
-
----
 
 ## 🏆 Achievements & Contributions
 <p align="center">
