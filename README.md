@@ -1,59 +1,94 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FF5733&center=true&vCenter=true&width=500&lines=Hello+World!;I+am+Roshan+Adhikari;I+love+coding+%26+tech!;Welcome+to+my+GitHub!👋)
+<!-- Animated Header -->
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=52E3C2&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Roshan+Adhikari;Developer+%7C+Tech+Explorer+%7C+Innovator;Welcome+to+my+GitHub!👋)
 
-Roshan Adhikari — Developer | Tech Explorer | Innovator
+<h1 align="center">Roshan Adhikari — Developer | Tech Explorer | Innovator</h1>
 
-"Code isn’t just about solving problems — it’s about creating impact." 💡
+<p align="center"><i>"Code isn’t just about solving problems — it’s about creating impact."</i> 💡</p>
 
-👨‍💻 About Me
+---
 
-🎓 BSc.IT Student — Infomax College of IT & Management
-💡 Aspiring Full-Stack Developer focused on clean UI, smart systems, and efficient problem-solving
-🚀 Passionate about modern web/mobile apps, cloud, and AI-powered experiences
-🌍 Based in Pokhara, Nepal 🇳🇵
-📧 Email: chhetrirosun@gmail.com
+## 👨‍💻 About Me
 
-🌱 What I’m Currently Exploring
+- 🎓 **BSc.IT Student** — Infomax College of IT & Management  
+- 💡 Aspiring **Full-Stack Developer** passionate about clean UI, smart systems & scalable design  
+- 🚀 Focused on **web/mobile development, cloud computing, and AI-driven apps**  
+- 🌍 From **Pokhara, Nepal** 🇳🇵  
+- 📧 **Email:** chhetrirosun@gmail.com  
 
-⚛️ Full-Stack Development (React, Node/Express, Java, SQL)
+---
 
-☁️ Cloud, API design & backend architecture
+## 🌱 What I’m Currently Exploring
 
-🎨 UI/UX design, animations & micro-interactions
+- ⚛️ **Full-Stack Development** (React, Node/Express, Java, SQL)  
+- ☁️ **Cloud**, REST APIs & backend architecture  
+- 🎨 **UI/UX**, animations & micro-interactions  
+- 🤖 **AI-Integrated Mobile Apps** using React Native  
 
-🤖 AI-Integrated Mobile Apps using React Native
+---
 
-🤝 Let’s Connect
-<p align="center"> <a href="https://roshanadhikari25.com.np/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-RoshanAdhikari25.com.np-%23007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </p>
-💻 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,mysql,dotnet,git,github,vscode" /> </p>
-🚀 Featured Projects
-Project	Description	Tech
-🧠 Quiz App
-	Animated quiz app with timers, sound effects & leaderboard	React Native
-🍔 Food Sathi
-	Full food-ordering system with feedback, admin & vendor dashboard	ASP.NET Core, MySQL
-🤖 AI Personal Assistant (Private)	Smart assistant featuring tasks, reminders & voice commands	React Native
-🌍 Portfolio Website
-	Personal site with dark mode, smooth transitions & animations	HTML, CSS, JS
-🏆 Achievements & Contributions
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RoshanAdhikari10&theme=radical&no-frame=true&margin-w=10&row=1" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoshanAdhikari10&theme=radical&hide_border=true" /> </p>
-⚡ GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RoshanAdhikari10&show_icons=true&theme=radical&hide_border=true" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com?user=RoshanAdhikari10&theme=radical&hide_border=true" width="48%"> </p>
-💬 Developer Quote
+## 🤝 Let’s Connect
 
-🎯 Fun Facts
+<p align="center">
+  <a href="https://roshanadhikari25.com.np/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-RoshanAdhikari25.com.np-52E3C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
-🏔️ Love trekking & exploring scenic locations
+---
 
-🎮 Gamer + meme-maker during free time
+## 💻 Tech Stack
 
-📸 Enjoy capturing aesthetic visuals
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,mysql,dotnet,git,github,vscode" />
+</p>
 
-🍜 Foodie — always trying new cuisines
+---
 
-🧩 “Stay curious, stay creative — and keep building what inspires you.” 🚀
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🧠 **[Quiz App](https://github.com/RoshanAdhikari10/Quiz-App)** | Animated quiz app with timers, sound effects & leaderboard | React Native |
+| 🍔 **[Food Sathi](https://github.com/RoshanAdhikari10/FoodSathi)** | Food ordering system with admin, vendor & feedback modules | ASP.NET Core, MySQL |
+| 🤖 **AI Personal Assistant** *(Private)* | Smart assistant with tasks, reminders, voice features | React Native |
+| 🌍 **[Portfolio Website](https://roshanadhikari25.com.np/)** | Modern portfolio with dark mode & smooth animations | HTML, CSS, JS |
+
+---
+
+## 🏆 Achievements & Contributions
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RoshanAdhikari10&theme=radical&no-frame=true&margin-w=10&row=1" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoshanAdhikari10&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## ⚡ GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RoshanAdhikari10&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RoshanAdhikari10&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
 
 ## 💬 Random Dev Quote
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+## 🎯 Fun Facts
+
+- 🏔️ Love trekking & exploring scenic locations  
+- 🎮 Gamer + meme creator in free time  
+- 📸 Passionate about photography  
+- 🍜 Food lover — always trying new cuisines  
+
+---
+
+## 🧩 Final Note
+
+<h3 align="center">“Stay curious, stay creative — and keep building what inspires you.” 🚀</h3>
