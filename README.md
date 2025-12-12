@@ -1,6 +1,6 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FF5733&center=true&vCenter=true&width=500&lines=Hello+World!;I+am+Roshan+Adhikari;I+love+coding+%26+tech!;Welcome+to+my+GitHub!👋)
 
-# 🌟 Roshan Adhikari — Tech Explorer | Developer | Innovator
+#  Roshan Adhikari — Tech Explorer | Developer | Innovator
 
 > _"Code is not just about solving problems, it’s about creating impact."_ 💡
 
