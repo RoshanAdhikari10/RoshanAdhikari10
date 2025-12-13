@@ -31,7 +31,7 @@
 
 - ⚛️ React • React Native  
 - 🧠 Node.js, Express, Java  
-- 🎨 UI/UX + Micro-Animations  
+- 🎨 UI/UX   
 - 🤖 AI + Mobile Integration  
 - ☁️ Cloud & API Architecture  
 
