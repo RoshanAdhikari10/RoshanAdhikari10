@@ -127,7 +127,7 @@ fun_fact: "Consistency beats talent when talent doesn't stay consistent."
 - 🔥 Backend integration with Firebase
 - 🏗️ System design fundamentals
 - ☁️ Cloud & API architecture
-- 📖 Studying for the IT Officer (Lok Sewa Aayog) government exam
+ 
 
 ## 🎯 Beyond Code
 
