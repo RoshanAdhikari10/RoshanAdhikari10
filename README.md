@@ -28,20 +28,18 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Roshan Adhikari
- 
+name: Roshan Adhikari 
 location: Pokhara, Nepal 🇳🇵
 education: BSc.IT — Infomax College of IT & Management (Asia Pacific University)
 focus: [PHP/MySQL, ASP.NET Core MVC, React Native, 3D Web Experiences]
-currently_exploring: [Backend architecture, AI-powered apps, Government IT Officer exam prep]
+currently_exploring: [Backend architecture, AI-powered apps ]
 fun_fact: "Consistency beats talent when talent doesn't stay consistent."
 ```
 
 - 💼 Mobile App Developer at **Tonic Byte (P) Ltd.**, Pokhara — previously interned there
 - 🎓 BSc.IT graduate, strongest work in **.NET / ASP.NET Core MVC** and **PHP/MySQL** systems
 - 🧩 Builder of real-world apps — from e-commerce storefronts to 3D games
-- 🎨 Passionate about clean UI/UX, dark mode, and smooth animations
-- 📚 Currently preparing for Nepal's **Lok Sewa Aayog IT Officer exam**
+- 🎨 Passionate about clean UI/UX, dark mode, and smooth animations 
 - 🤝 Team player, fast learner, and consistent shipper of side projects
 
 ---
