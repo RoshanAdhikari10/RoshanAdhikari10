@@ -29,7 +29,7 @@
 
 ```yaml
 name: Roshan Adhikari
-role: Mobile App Developer @ Tonic Byte (P) Ltd.
+ 
 location: Pokhara, Nepal 🇳🇵
 education: BSc.IT — Infomax College of IT & Management (Asia Pacific University)
 focus: [PHP/MySQL, ASP.NET Core MVC, React Native, 3D Web Experiences]
@@ -78,7 +78,7 @@ fun_fact: "Consistency beats talent when talent doesn't stay consistent."
 
 </div>
 
-> 💡 *GitHub pins above pull live from your repos — rename the `repo=` values to match your actual repository names, or set your pinned repos directly on your GitHub profile for the cleanest result.*
+ 
 
 | Project | Description | Stack |
 |---|---|---|
@@ -119,7 +119,7 @@ fun_fact: "Consistency beats talent when talent doesn't stay consistent."
   <img src="https://raw.githubusercontent.com/RoshanAdhikari10/RoshanAdhikari10/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> ⚙️ To make the snake animate for real, add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to your profile repo — it regenerates that SVG from your live contribution graph on a schedule.
+ 
 
 ---
 
